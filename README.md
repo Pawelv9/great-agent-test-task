@@ -6,7 +6,9 @@ Code should work on the latest version of Chrome.
 Stack: ES6/ES7, React, Redux
 
 ## Max time for the task - 1 hour
-Submit everything that you were able to implement within one hour
+Submit everything that you were able to implement within one hour. 
+We are not asking for low quality, fast code, but we are interested in understanding how you work by having you submit
+any part of this task you can complete within no more than 1 hour of work.
 
 ## Mock (you should not provide any changes in mock file)
 
@@ -39,7 +41,10 @@ Use the best practises regarding React/Redux applications in order to achieve th
 mini-application.
 
 ## Additional task (only if you have time to do it)
-Cover the application with tests using Enzyme and Sinon (the prominent functionality that you think should be covered by tests)
+Cover the application with tests using Enzyme and Sinon (the prominent functionality that you think should be covered by tests).
+There are no time limits for this additional task and this task is not obligatory.
+If you decide to implement this task, please create 2 PRs - the first one within 1 hour for the main task and second (created from the first one) with
+this additional task without time limits.
 
 ## Run the boilerplate
     - npm install
